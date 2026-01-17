@@ -3,23 +3,17 @@
 layout: home
 
 hero:
-  name: "Cjsah's Blog"
-  text: "Cjsah的个人主页"
-  tagline: My great project tagline
+  name: "Cjsah的个人主页"
+  tagline: 有个主页就行了
+  image: 
+    src: /avator.png
+    alt: VitePress
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Github
+      link: https://github.com/Cjsah
     - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      text: Bilibili
+      link: https://space.bilibili.com/19170004
 ---
 
