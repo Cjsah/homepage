@@ -13,6 +13,9 @@ hero:
       text: Github
       link: https://github.com/Cjsah
     - theme: alt
+      text: QQ
+      link: https://qm.qq.com/q/bTi7oStGJq
+    - theme: alt
       text: Bilibili
       link: https://space.bilibili.com/19170004
 ---
